@@ -21,3 +21,5 @@ Apart from PhD work, I am also tutoring and lecturing several modules:
 + R programming
 
 Last but not least, I am working as a data analyst at a wonderful company (I mean ... I really enjoy it 😚)
+
+___
